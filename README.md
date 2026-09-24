@@ -1,2 +1,3 @@
 # BlueFinder
-An application to find nearby 7MA bike
+
+An Android application built with AutoJs6 to find nearby 7MA bikes.
